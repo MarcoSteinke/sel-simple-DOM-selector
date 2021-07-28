@@ -34,7 +34,7 @@ IMPORTANT: root is required to be a DOMElement, e.g.
 sl("div", sl("#carousel"))
 
 // and not
-sl("div", "#carousel"));
+sla("div", "#carousel"));
 ```
 
 IMPORTANT: This may be simplified in the future!
