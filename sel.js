@@ -7,4 +7,4 @@ const selN = (selector, n) => document.querySelectorAll(selector)[n];
 // Select first element with specific selector from DOM
 const selF = (selector) => document.querySelectorAll(selector)[0];
 // Select last element with specific selector from DOM
-const selL = (selector) => document.querySelectorAll(selector)[document.querySelectorAll.length - 1];
+const selL = (selector) => document.querySelectorAll(selector)[document.querySelectorAll(selector).length - 1];
