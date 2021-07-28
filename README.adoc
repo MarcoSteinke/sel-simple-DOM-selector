@@ -3,7 +3,9 @@
 
 ## 👋 Introduction:
 
-I was annoyed by spamming document.querySelector(...) and document.querySelectorAll(...) so after years I decided to write a small library to do this for me 
+I was annoyed by spamming document.querySelector(...) and document.querySelectorAll(...) so after years I decided to write a small library to do this for me .
+
+The changes in this repository where partially discussed on reddit before :)
 
 ## 🔧 Usage:
 
