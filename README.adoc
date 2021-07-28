@@ -12,7 +12,7 @@ I was annoyed by spamming document.querySelector(...) and document.querySelector
 Copy the following code into your HTML: 
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/MarcoSteinke/sel-simple-DOM-selector@69697b7b77cc1b951b765362eb19ec776b68648e/sel.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/MarcoSteinke/sel-simple-DOM-selector@0f1d5de5ba43d9f175c777653191b4531232b86e/sel.js"></script>
 ```
 
 
