@@ -9,7 +9,12 @@ I was annoyed by spamming document.querySelector(...) and document.querySelector
 
 #### 1. Add CDN:
 
-Copy the following link into your HTML: 
+Copy the following code into your HTML: 
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/MarcoSteinke/sel-simple-DOM-selector@34f8c7cf833e9210eaa5f5d8149314e499b1181c/sel.js"></script>
+```
+
 
 #### 2. Use the following functions:
 
