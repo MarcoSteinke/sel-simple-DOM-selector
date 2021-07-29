@@ -14,7 +14,7 @@ The changes in this repository where partially discussed on reddit before :)
 Copy the following code into your HTML: 
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/MarcoSteinke/sel-simple-DOM-selector@0a54deba0951d98d617d1f0d36e7172c1cd5de6c/sel.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/MarcoSteinke/sel-simple-DOM-selector@67393b8837bcc3831749685d5eb640c79979d027/sel.js"></script>
 ```
 
 
@@ -41,11 +41,13 @@ sla("div", "#carousel"));
 
 IMPORTANT: This may be simplified in the future!
 
-* sl:(selector, root = document) Select an element from DOM
-* sla:(selector, root = document) Select all elements with specific selector from DOM
-* sln:(selector, n, root = document) Select n-th element with specific selector from DOM
-* slf:(selector, root = document) Select first element with specific selector from DOM
-* sll:(selector, root = document) Select last element with specific selector from DOM
+* sl:(selector, root) Select an element from DOM
+* sla:(selector, root) Select all elements with specific selector from DOM
+* sln:(selector, n, root) Select n-th element with specific selector from DOM
+* slf:(selector, root) Select first element with specific selector from DOM
+* sll:(selector, root) Select last element with specific selector from DOM
+* slfn:(selector, n, root) Select first n elements with specific selector from DOM
+* slln:(selector, n, root) Select last n elements with specific selector from DOM
 
 #### 3. Example:
 
